@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Who is the president of india?",
+      option1: "Narendra Modi",
+      option2: "Amit Shah",
+      option3: "Nirmala Seetraman",
+      option4: "Droupadi Murmu",
+      ans: 4,
+    },
+    {
+      question: "Which continent has the highest number of countries?",
+      option1: "Asia",
+      option2: "Europe",
+      option3: "North America",
+      option4: "Africa",
+      ans: 4,
+    },
+    {
+      question: "What is capital of canada?",
+      option1: "Ottawa",
+      option2: "New Delhi",
+      option3: "Moscow",
+      option4: "Wellington",
+      ans: 1,
+    },
+    {
+      question: "5*(2+3*5)-34=",
+      option1: "91",
+      option2: "51",
+      option3: "61",
+      option4: "None of the above",
+      ans: 2,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
